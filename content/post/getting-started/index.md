@@ -38,7 +38,6 @@ tags:
 
 categories:
   - Demo
-  - 教程
 ---
 
 ```python

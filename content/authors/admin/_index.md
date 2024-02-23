@@ -24,19 +24,20 @@ organizations:
   - name: George Mason University
     url: https://cryptography.gmu.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include ...
 
 # Interests to show in About widget
 interests:
-  - ...
+  - Cryptography
+  - Security
 
 # Education to show in About widget
-education:
-  courses:
-    - course: ...
-      institution: ...
-      year: ...
+# education:
+#   courses:
+#     - course: ...
+#       institution: ...
+#       year: ...
 
 
 # Skills
@@ -44,25 +45,17 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Rust
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Music
+  #       description:
 
 
 # Social/Academic Networking
@@ -91,13 +84,13 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Kamyar is a .. at the ... His research interests include... He ...
+<!-- ... -->
 {style="text-align: justify;"}
